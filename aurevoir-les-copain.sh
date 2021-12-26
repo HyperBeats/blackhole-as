@@ -2173,3 +2173,26 @@ ip route add blackhole 178.62.0.0/18
 
 # DIGITAL-OCEAN
  
+ 
+ip route add blackhole 103.253.144.0/22
+ip route add blackhole 104.131.0.0/18
+ip route add blackhole 104.131.128.0/20
+ip route add blackhole 104.131.144.0/20
+ip route add blackhole 104.131.160.0/20
+ip route add blackhole 104.131.176.0/20
+ip route add blackhole 104.131.192.0/19
+ip route add blackhole 104.131.224.0/19
+ip route add blackhole 104.131.64.0/18
+ip route add blackhole 104.236.0.0/18
+ip route add blackhole 104.236.128.0/18
+ip route add blackhole 104.236.192.0/18
+ip route add blackhole 104.248.0.0/20
+ip route add blackhole 104.236.64.0/18
+ip route add blackhole 104.248.100.0/22
+ip route add blackhole 104.248.104.0/22
+ip route add blackhole 104.248.108.0/22
+ip route add blackhole 104.248.112.0/20
+ip route add blackhole 104.248.128.0/20
+ip route add blackhole 104.248.144.0/20
+ip route add blackhole 104.248.160.0/20
+ip route add blackhole 104.248.16.0/20
